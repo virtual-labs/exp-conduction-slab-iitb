@@ -1,20 +1,20 @@
 [
    {
-      "question": "A horizontal venturimeter inlet & throat diameter are 27 cm and 14 cm respectively. The hm = 21 cm. The manometer fluid is mercury. Take cd = 0.98. water is flowing through pipe find discharge. Find the discharge. Refer figure from the simulator.",
+      "question": "A plane wall of thickness (b) 10cm, length 5m and height 4m. The temperature at the left and is maintained at 96° C and right end at 33° C. The conductivity is given by: $$ K = K_0(1 + \\alpha T) \\ \\text(where K0 = 61 and alpha = 0.5)$$ Find the temperature at x = 5cm.",
       "qid": 1,
-      "option_a": "103.44 l/s",
-      "option_b": "112.85 l/s",
-      "option_c": "120.94 l/s",
-      "option_d": "110.43 l/s",
-      "correct_option": "b"
+      "option_a": "70.0242 C",
+      "option_b": "72.5523 C",
+      "option_c": "71.5832 C",
+      "option_d": "71.8341 C",
+      "correct_option": "c"
    },
    {
-      "question": "A horizontal venturimeter inlet & throat diameter are 30 cm and 13 cm respectively. The hm = 22 cm. The manometer fluid is mercury. Take cd = 0.98. water is flowing through pipe find discharge. Find the discharge. Refer figure from the simulator.",
+      "question": "A plane wall of thickness (b) 10cm, length 5m and height 4m. The temperature at the left and is maintained at 96° C and right end at 33° C. The conductivity is given by: $$ K = K_0(1 + \\alpha T) \\ \\text(where K0 = 61 and alpha = 0) $$ Find the temperature at x = 5cm from left end.",
       "qid": 2,
-      "option_a": "97.66 l/s",
-      "option_b": "101.56 l/s",
-      "option_c": "93.47 l/s",
-      "option_d": "108.98 l/s",
+      "option_a": "64.5 C",
+      "option_b": "63.5 C",
+      "option_c": "61.5 C",
+      "option_d": "65.5 C",
       "correct_option": "a"
    }
 ]
