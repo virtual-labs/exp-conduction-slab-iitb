@@ -1,1 +1,1 @@
-## Experiment name
+## Conduction through slab (Conductivity as a function of temperature)
