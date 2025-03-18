@@ -1,0 +1,20 @@
+[
+   {
+      "question": "A plane wall of thickness (b) 10cm, length 5m and height 4m. The temperature at the left and is maintained at 96° C and right end at 33° C. The conductivity is given by: $$ K = K_0(1 + \\alpha T) \\ \\text(where K0 = 61 and alpha = 0.5)$$ Find the temperature at x = 5cm.",
+      "qid": 1,
+      "option_a": "70.0242 C",
+      "option_b": "72.5523 C",
+      "option_c": "71.5832 C",
+      "option_d": "71.8341 C",
+      "correct_option": "c"
+   },
+   {
+      "question": "A plane wall of thickness (b) 10cm, length 5m and height 4m. The temperature at the left and is maintained at 96° C and right end at 33° C. The conductivity is given by: $$ K = K_0(1 + \\alpha T) \\ \\text(where K0 = 61 and alpha = 0) $$ Find the temperature at x = 5cm from left end.",
+      "qid": 2,
+      "option_a": "64.5 C",
+      "option_b": "63.5 C",
+      "option_c": "61.5 C",
+      "option_d": "65.5 C",
+      "correct_option": "a"
+   }
+]
