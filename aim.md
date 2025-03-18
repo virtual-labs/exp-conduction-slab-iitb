@@ -1,0 +1,1 @@
+<h2> AIM: To study conduction through slab (Conductivity as a function of temperature). </h2>
